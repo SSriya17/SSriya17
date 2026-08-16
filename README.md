@@ -67,6 +67,7 @@ Personalized nutrition and workout recommendations powered by machine learning.
 ML powered financial segmentation and personalized product recommendations.  
 `Python` `ML` `Financial Data`  
 [Live](https://bridgelens.streamlit.app/) · [Code](https://github.com/SSriya17/HackathonApp)
+
 ---
 
 ## What I like working with

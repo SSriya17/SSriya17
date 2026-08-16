@@ -30,74 +30,43 @@ I'm still figuring out where all of that will take me, but I think that's the fu
 > *Talent might open the door. Curiosity makes you walk through it, and hard work keeps you moving.*
 
 ---
-
 ## Things I've built
 
 ### 01 · InsightSearch
-
-**AI / Search / Retrieval**
-
-A grounded semantic search product that turns a local document collection into searchable knowledge using embeddings, retrieval, cosine similarity, and source grounded generation.
-
-`React` `TypeScript` `FastAPI` `Python` `Gemini`
-
-[Live](https://insight-search.vercel.app/) &nbsp;·&nbsp; [Code](https://github.com/SSriya17/insight-search)
-
+**AI / Search / Retrieval**  
+Semantic search for local documents using embeddings, retrieval, and grounded generation.  
+`React` `TypeScript` `FastAPI` `Python` `Gemini`  
+[Live](https://insight-search.vercel.app/) · [Code](https://github.com/SSriya17/insight-search)
 
 ### 02 · RAlign
-
-**AI / Research Matching**
-
-A research matching platform that aggregates live course and publication data and ranks student faculty compatibility across research interests, technical skills, coursework, and publication relevance.
-
-`FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `APIs`
-
+**AI / Research Matching**  
+Matches students and faculty using live course, publication, and research data.  
+`FastAPI` `Python` `PostgreSQL` `SQLAlchemy`  
 [Code](https://github.com/SSriya17/HackAI)
 
-
 ### 03 · WardrobeAI
-
-**AI / Mobile**
-
-An AI wardrobe companion exploring computer vision, structured closet data, and personalized outfit planning through a mobile first product experience.
-
-`React Native` `Expo` `TypeScript` `Computer Vision`
-
+**AI / Mobile**  
+AI powered wardrobe and outfit planning through a mobile experience.  
+`React Native` `Expo` `TypeScript` `Computer Vision`  
 [Code](https://github.com/SSriya17/ai-outfit-planner)
 
-
 ### 04 · NVIDIA AI
-
-**Foundation Models**
-
-An AI application built around NVIDIA foundation models and retrieval pipelines for real time, context aware responses, with a modular backend for multi model LLM workflows.
-
-`Nemotron` `Riva` `NVIDIA Build` `LLM APIs`
-
+**Foundation Models**  
+AI application exploring NVIDIA models, retrieval, and context aware responses.  
+`Nemotron` `Riva` `LLM APIs`  
 [Code](https://github.com/SSriya17/nvidiaHackSolo)
 
-
 ### 05 · BioBoard
-
-**ML / Full Stack**
-
-A health and fitness web application using machine learning to generate personalized nutrition and workout recommendations through an end to end deployed pipeline.
-
-`React` `Python` `NumPy` `scikit-learn`
-
-[Live](https://bio-board-seven.vercel.app/) &nbsp;·&nbsp; [Code](https://github.com/SSriya17/BioBoard)
-
+**ML / Full Stack**  
+Personalized nutrition and workout recommendations powered by machine learning.  
+`React` `Python` `NumPy` `scikit-learn`  
+[Live](https://bio-board-seven.vercel.app/) · [Code](https://github.com/SSriya17/BioBoard)
 
 ### 06 · BridgeLens
-
-**ML / FinTech**
-
-A financial dashboard using a Python based ML pipeline to segment customer financial behavior and generate personalized product recommendations from financial datasets.
-
-`Python` `ML` `Financial Data` `Recommendations`
-
-[Live](https://bridgelens.streamlit.app/) &nbsp;·&nbsp; [Code](https://github.com/SSriya17/HackathonApp)
-
+**ML / FinTech**  
+ML powered financial segmentation and personalized product recommendations.  
+`Python` `ML` `Financial Data`  
+[Live](https://bridgelens.streamlit.app/) · [Code](https://github.com/SSriya17/HackathonApp)
 ---
 
 ## What I like working with
